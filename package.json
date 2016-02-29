@@ -1,0 +1,25 @@
+{
+	"name": "node-murmurhash-native",
+	"version": "1.0.0",
+	"description": "Node.js wrapper for native C++ implementation of murmur hashes (versions 2 and 3)",
+	"keywords": [
+		"hash",
+		"murmurhash"
+	],
+	"homepage": "https://github.com/TheRoSS/node-murmurhash-native",
+	"repository": {
+		"type" : "git",
+		"url" : "https://github.com/TheRoSS/node-murmurhash-native.git"
+	},
+	"license": "MIT",
+	"author": "Alexey Chistyakov <ross@newmail.ru>",
+	"main": "./index.js",
+	
+	"engines": {
+		"node": ">=0.12"
+	},
+
+	"dependencies": {
+	}
+}
+

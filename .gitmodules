@@ -1,0 +1,4 @@
+[submodule "deps/smhasher"]
+    path = deps/smhasher
+    url = https://github.com/aappleby/smhasher.git
+
