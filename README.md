@@ -41,3 +41,13 @@ Usage example
 > hasher.murmurHash2("ws2yy")
 2490241110
 ```
+
+Installation from Git
+===
+```
+git clone --recursive 'https://github.com/TheRoSS/node-murmurhash-native.git'
+cd node-murmurhash-native
+npm install
+```
+
+Note the *--recursive* option. It loads native MurmurHash repository with C++ modules
