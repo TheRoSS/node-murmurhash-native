@@ -51,3 +51,10 @@ npm install
 ```
 
 Note the *--recursive* option. It loads native MurmurHash repository with C++ modules
+
+Links
+===
+I found the more complete module for this task. 
+It's better to use it instead of mine
+
+http://github.com/royaltm/node-murmurhash-native
